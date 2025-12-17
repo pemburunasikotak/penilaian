@@ -75,7 +75,7 @@ function App() {
       </main>
 
       <footer style={styles.footer}>
-        <p>&copy; {new Date().getFullYear()} Universitas Akademik. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} @PPNS</p>
       </footer>
     </div>
   );
